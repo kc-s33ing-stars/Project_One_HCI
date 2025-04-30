@@ -1,3 +1,5 @@
+Made by Kc Weaver
+
 # VGM Percussive Isolator
 
 This is a front-end interface for isolating percussion or instrumental tracks from VGM (video game music). Users can either upload a file or select from themed genres before isolating audio.
